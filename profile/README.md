@@ -11,7 +11,7 @@ Questo progetto ha l'obiettivo di diventare un faro di conoscenza e opportunità
 
 Il manuale toccherà una vasta gamma di argomenti, da quelli più basilari a quelli più avanzati, offrendo una guida completa per chiunque sia interessato a intraprendere questo affascinante percorso.
 
-Ma c'è qualcosa di davvero speciale in questo progetto: è completamente open-source, il che significava che chiunque può contribuire, aggiungendo il proprio sapere e le proprie esperienze per arricchire ulteriormente questo tesoro di conoscenza condivisa. 
+Ma c'è qualcosa di davvero speciale in questo progetto: è completamente open-source, il che significa che chiunque può contribuire, aggiungendo il proprio sapere e le proprie esperienze per arricchire ulteriormente questo tesoro di conoscenza condivisa. 
 
 Un'opportunità unica per la comunità degli sviluppatori di unirsi, condividere e apprendere insieme.
 
